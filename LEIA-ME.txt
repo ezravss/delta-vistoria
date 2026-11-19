@@ -1,0 +1,30 @@
+VISTORIA DIGITAL DELTA - VERSÃO OFFLINE
+
+Arquivos: index.html, sw.js, manifest.json, icon-192.png, icon-512.png
+(envie os 5 juntos, sem pastas)
+
+PUBLICAR (uma vez, grátis, pelo GitHub Pages)
+1. Crie uma conta em github.com.
+2. "New repository" > nome: vistoria-delta > Public > Create.
+3. "uploading an existing file" > selecione os 5 arquivos > Commit changes.
+4. Settings > Pages > Branch: main, pasta / (root) > Save.
+5. Em 1 a 2 minutos o link fica pronto:
+   https://SEU-USUARIO.github.io/vistoria-delta/
+
+INSTALAR EM CADA CELULAR (precisa de internet só agora)
+- Abra o link e espere aparecer "✓ Funciona offline" no topo.
+- Android (Chrome): toque em "Instalar" ou menu ⋮ > Adicionar à tela inicial.
+- iPhone (Safari): Compartilhar > Adicionar à Tela de Início.
+- Teste: ative o modo avião e abra pelo ícone.
+
+NO DIA A DIA
+- Fotos e textos ficam salvos só naquele celular até tocar em "Nova vistoria".
+- "Gerar laudo em PDF" abre o compartilhamento (WhatsApp, e-mail, Drive)
+  ou salva o arquivo no aparelho.
+- Ditado: use o microfone do teclado (no Gboard, baixe o português
+  para funcionar sem internet).
+
+ATUALIZAR O APP DEPOIS
+- Troque os arquivos no GitHub e, no sw.js, mude "vistoria-delta-v1"
+  para "v2" (depois v3...). Os celulares pegam a versão nova na
+  próxima vez que abrirem com internet.
